@@ -38,5 +38,6 @@ yarn-debug.log*
 # Ignore Spring files.
 /spring/*.pid
 
-# Ignore practice logs.
+# Ignore practice file.
 /*.log
+/example_user.rb
